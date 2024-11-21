@@ -90,6 +90,7 @@ assert centered_avg([1, 1, 5, 5, 10, 8, 7]) == 5, 'average [1, 1, 5, 5, 10, 8, 7
 print("correct")
 assert centered_avg([-10, -4, -2, -4, -2, 0]) == -3, 'average [-10, -4, -2, -4, -2, 0] is -3'
 print("correct")
+## this is a change
 
 
 # Problems found on https://codingbat.com/python
